@@ -1,0 +1,14 @@
+bool,
+string, 
+int, int8, int16, int32, int64
+uint, uint8, uint16, uint32, uin64, uintptr
+float32, float64
+complex64, complex128 
+
+const 
+const does not want := declaration
+%T  =   variable type 
+%v  =   variable value 
+%q  =   string value 
+%f  =   float
+%d  =   int
